@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kritika Mahajan</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-- 🌱 I’m currently learning **PowerBi**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@k.mahajan202304](https://medium.com/@k.mahajan202304)
 
